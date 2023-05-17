@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Full version
+======
+Full version of my CV can be found [here](https://marinegor.github.io/files/CV_Egor_Marin__science.pdf).
+
 Education
 ======
 * B.S. in applied mathematics and physics, Moscow institute of Physics and Technology, 2017
