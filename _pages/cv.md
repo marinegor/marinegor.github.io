@@ -11,49 +11,47 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in applied mathematics and physics, Moscow institute of Physics and Technology, 2017
+* M.S. in applied mathematics and physics (with specialization in biophysics), Moscow institute of Physics and Technology, 2019
+* Ph.D, University of Groningen, 2024 (expected)
+* No Degree: Data Analysis School, Yandex, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2016: Trainee
+  * DESY, Hamburg
+  * Duties included: processing standing wave X-ray fluorescense data
+  * Supervisor: Dmitriy Novikov
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2017: Visiting researcher
+  * CFEL, Hamburg
+  * Duties included: processing serial femtosecond crystallography data
+  * Supervisor: Thomas A. White
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Spring-summer 2018: Visiting research assistant
+  * USC, Los Angeles
+  * Duties included: small-molecule docking campaigns & large-scale virtual screening
+  * Supervisor: Vsevolod "Seva" Katritch
+
+* Spring-summer 2018: Visiting research assistant
+  * USC, Los Angeles
+  * Duties included: small-molecule docking campaigns & large-scale virtual screening
+  * Supervisor: Vsevolod "Seva" Katritch
+
+* 2017-2022: Researcher
+  * Moscow Institute of Physics and Technology, Moscow
+  * Duties included: structural biology & Linux administration
+  * Supervisor: Valentin Borshchevskiy
+
+* 2020-2023: PhD student
+  * University of Groningen, Groningen
+  * Duties included: membrane protein production & purification, single-particle cryoEM
+  * Supervisor: Albert Guskov
+
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+You can find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+
+
